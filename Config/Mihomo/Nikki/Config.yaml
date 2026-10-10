@@ -160,8 +160,8 @@ rules:
   - MATCH, Final
 
 rule-providers: 
-  fakeipfilter-cn: {<<: *class, url: "https://gh-proxy.com/https://raw.githubusercontent.com/EikoYin/Proxy/refs/heads/main/Rule/Mihomo/FakeIPFilter-CN.list"}
-  fakeipfilter-!cn: {<<: *class, url: "https://gh-proxy.com/https://raw.githubusercontent.com/EikoYin/Proxy/refs/heads/main/Rule/Mihomo/FakeIPFilter-!CN.list"}
+  fakeipfilter-cn: {<<: *class, url: "https://gh-proxy.com/https://raw.githubusercontent.com/EikoYin/PubProxy/refs/heads/main/Rule/Mihomo/FakeIPFilter-CN.list"}
+  fakeipfilter-!cn: {<<: *class, url: "https://gh-proxy.com/https://raw.githubusercontent.com/EikoYin/PubProxy/refs/heads/main/Rule/Mihomo/FakeIPFilter-!CN.list"}
   private-ip: {<<: *ip, url: "https://gh-proxy.com/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geoip/private.mrs"}
   private-domain: {<<: *domain, url: "https://gh-proxy.com/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/private.mrs"}
   ai-domain: {<<: *domain, url: "https://gh-proxy.com/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/category-ai-!cn.mrs"}
