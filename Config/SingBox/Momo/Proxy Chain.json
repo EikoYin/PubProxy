@@ -151,8 +151,8 @@
       {"rule_set": "geoip-cn", "outbound": "Direct"}
     ],
     "rule_set": [
-      {"tag": "fakeipfilter-cn", "type": "remote", "format": "source", "url": "https://gh-proxy.com/https://raw.githubusercontent.com/EikoYin/Proxy/refs/heads/main/Rule/SingBox/FakeIPFilter-CN.json"},
-      {"tag": "fakeipfilter-!cn", "type": "remote", "format": "source", "url": "https://gh-proxy.com/https://raw.githubusercontent.com/EikoYin/Proxy/refs/heads/main/Rule/SingBox/FakeIPFilter-!CN.json"},
+      {"tag": "fakeipfilter-cn", "type": "remote", "format": "source", "url": "https://gh-proxy.com/https://raw.githubusercontent.com/EikoYin/PubProxy/refs/heads/main/Rule/SingBox/FakeIPFilter-CN.json"},
+      {"tag": "fakeipfilter-!cn", "type": "remote", "format": "source", "url": "https://gh-proxy.com/https://raw.githubusercontent.com/EikoYin/PubProxy/refs/heads/main/Rule/SingBox/FakeIPFilter-!CN.json"},
       {"tag": ["geosite-private", "geosite-category-ai-!cn", "geosite-github", "geosite-onedrive", "geosite-telegram", "geosite-tiktok", "geosite-youtube", "geosite-netflix", "geosite-spotify", "geosite-steam@cn", "geosite-nintendo@cn", "geosite-xbox@cn", "geosite-steam", "geosite-epicgames", "geosite-ea", "geosite-playstation", "geosite-nintendo", "geosite-xbox", "geosite-google", "geosite-microsoft@cn", "geosite-microsoft", "geosite-apple@cn", "geosite-apple", "geosite-geolocation-!cn", "geosite-cn"], "type": "remote", "format": "binary", "url": "https://gh-proxy.com/https://raw.githubusercontent.com/SagerNet/sing-geosite/rule-set/{tag}.srs"},
       {"tag": "geoip-telegram", "type": "remote", "format": "binary", "url": "https://gh-proxy.com/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geoip/telegram.srs"},
       {"tag": "geoip-cn", "type": "remote", "format": "binary", "url": "https://gh-proxy.com/https://raw.githubusercontent.com/SagerNet/sing-geoip/rule-set/geoip-cn.srs"}
