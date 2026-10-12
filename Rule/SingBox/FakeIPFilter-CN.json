@@ -65,20 +65,20 @@
     },
     {
       "domain_suffix": [
-        ".cmbchina.com",
-        ".cmbimg.com",
-        ".battlenet.com.cn",
-        ".wotgame.cn",
-        ".wggames.cn",
-        ".wowsgame.cn",
-        ".gcloudcs.com",
-        ".gcloudsdk.com",
-        ".sandai.net",
-        ".n0808.com",
-        ".uu.163.com",
-        ".market.xiaomi.com",
-        ".oray.com",
-        ".orayimg.com"
+        "cmbchina.com",
+        "cmbimg.com",
+        "battlenet.com.cn",
+        "wotgame.cn",
+        "wggames.cn",
+        "wowsgame.cn",
+        "gcloudcs.com",
+        "gcloudsdk.com",
+        "sandai.net",
+        "n0808.com",
+        "uu.163.com",
+        "market.xiaomi.com",
+        "oray.com",
+        "orayimg.com"
       ]
     },
     {
