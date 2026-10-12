@@ -63,8 +63,6 @@ dns:
   fake-ip-range: 198.18.0.1/16
   fake-ip-filter-mode: blacklist
   fake-ip-filter:
-    - "+.googleapis.cn"
-    - "+.xn--ngstr-lra8j.com"
     - "rule-set:fakeipfilter-cn,fakeipfilter-!cn,private-domain,steam@cn-domain,nintendo@cn-domain,xbox@cn-domain,microsoft@cn-domain,apple@cn-domain,cn-domain"
   default-nameserver:
     - 223.5.5.5
