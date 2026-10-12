@@ -38,18 +38,20 @@
     },
     {
       "domain_suffix": [
-        ".pool.ntp.org",
-        ".msftconnecttest.com",
-        ".msftncsi.com",
-        ".srv.nintendo.net",
-        ".cdn.nintendo.net",
-        ".stun.playstation.net",
-        ".battle.net",
-        ".wargaming.net",
-        ".steamcontent.com",
-        ".nflxvideo.net",
-        ".media.dssott.com",
-        ".pub.3gppnetwork.org"
+        "pool.ntp.org",
+        "msftconnecttest.com",
+        "msftncsi.com",
+        "srv.nintendo.net",
+        "cdn.nintendo.net",
+        "stun.playstation.net",
+        "battle.net",
+        "wargaming.net",
+        "steamcontent.com",
+        "nflxvideo.net",
+        "media.dssott.com",
+        "pub.3gppnetwork.org"
+        "googleapis.cn"
+        "xn--ngstr-lra8j.com"
       ]
     },
     {
