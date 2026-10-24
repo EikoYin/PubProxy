@@ -195,6 +195,8 @@
 
 # Dashboard
 
+~~clash_api~~
+
 ```json
   "services": [
     {
