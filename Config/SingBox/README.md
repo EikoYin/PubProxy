@@ -192,3 +192,21 @@
 ```json
     "auto_detect_interface": true
 ```
+
+# Dashboard
+
+```json
+  "services": [
+    {
+      "type": "api",
+      "listen": "0.0.0.0",
+      "listen_port": 9090,
+      "secret": "",
+      "dashboard": {
+        "enabled": true,
+        "path": "dashboard",
+        "download_url": "https://github.com/SagerNet/sing-box-dashboard/archive/refs/heads/gh-pages.zip"
+      }
+    }
+  ],
+```
